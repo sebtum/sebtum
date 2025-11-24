@@ -15,9 +15,21 @@ Current interests: vision–language models, medical imaging workflows, reinforc
 <tr>
 <td><strong>Context-Aware Diff-VQA for Chest X-rays</strong></td>
 <td>
-Explains longitudinal changes between CXRs using PLURAL + CXR-BERT, with CT-style differential prompts, alignment evaluation, and bias analysis.
+Explains longitudinal changes between CXRs using PLURAL as a baseline but with an additional zero-shot context input.
 </td>
 <td><strong>PyTorch · Transformers · VLMs</strong></td>
+<td>
+<a href="https://github.com/sebtum/PLURAL/tree/xplainer">Code</a><br>
+<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
+</td>
+</tr>
+
+<tr>
+<td><strong>Xplainer for MIMIC DiffVQA</strong></td>
+<td>
+Adaptation of Xplainer as a zero shot disease classifier for the MIMIC DiffVQA dataset
+</td>
+<td><strong>PyTorch · CLIP · BioViL · VLMs</strong></td>
 <td>
 <a href="https://github.com/sebtum/Xplainer">Code</a><br>
 <!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
@@ -25,12 +37,23 @@ Explains longitudinal changes between CXRs using PLURAL + CXR-BERT, with CT-styl
 </tr>
 
 <tr>
-<td><strong>Zero-Shot Disease Classification (VLM Benchmark)</strong></td>
+<td><strong>BioViL-T for MIMIC DiffVQA</strong></td>
 <td>
-Evaluation pipeline for BioViL, BioViL-T, CheXFound, Xplainer.  
-Tests ROC-AUC, calibration, and prompt robustness across chest-X-ray findings.
+Adaptation of BioViL-T as a zero shot disease classifier for MIMIC DiffVQA dataset
 </td>
-<td><strong>PyTorch · Eval Pipelines</strong></td>
+<td><strong>PyTorch · CLIP · VLMs</strong></td>
+<td>
+<a href="https://github.com/sebtum/biovil-t">Code</a><br>
+<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
+</td>
+</tr>
+
+<tr>
+<td><strong>ChexFound as a disease classifier</strong></td>
+<td>
+ChexFound foundational model as a zero shot and as a fine tuned disease classifier for the MIMIC DiffVQA dataset. 
+</td>
+<td><strong>PyTorch · DINO · Fine tuning</strong></td>
 <td>
 <a href="https://github.com/sebtum/CheXFound">Code</a>
 </td>
