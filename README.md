@@ -1,17 +1,43 @@
 ## Hi there 👋
 ## **About Me**
-AI/ML engineer with a hybrid background:  
-- 6+ years in **server-CPU silicon validation** at Intel Corporation (automation, data pipelines, large-scale debug)  
+AI/ML engineer with a hybrid background:
+- Agentic application development with Claude Code
+- Google Cloud Platform professional ML engineer course
+- 6+ years in **server-CPU validation** at Intel Corporation (**DevOps**, automation, data pipelines, large-scale debug)  
 - M.Sc. **Robotics, Cognition & Intelligence (TUM)** focused on medical imaging, computer vision, and vision–language models  
 - B.Sc. **Electrical Engineer (Universidad de Costa Rica)**
 
-Current interests: vision–language models, medical imaging workflows, reinforcement learning, nlp, computer vision, and applied AI engineering.
+Current interests: Agentic AI, NLP and Computer Vision.
 
 ---
 
 ## **Selected Projects**
 
 <table>
+<tr>
+<td><strong>MedAI Paper Lens</strong></td>
+<td>
+RAG based agent for comparing medical AI literature
+</td>
+<td><strong>Python, Ollama, Langgraph, Qdrant, FastAPI, Streamlit</strong></td>
+<td>
+<a href="https://github.com/sebtum/medai-paperlens">Code</a><br>
+<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
+</td>
+</tr>
+
+<tr>
+<td><strong>Personal Accountability App</strong></td>
+<td>
+Time tracking and project accountability app with visual statistics.
+</td>
+<td><strong>React, Next.js, Supabase, Tailwind, Typescript</strong></td>
+<td>
+<a href="https://github.com/sebtum/personal-accountability-app">Code</a><br>
+<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
+</td>
+</tr>
+
 <tr>
 <td><strong>Context-Aware Diff-VQA for Chest X-rays</strong></td>
 <td>
