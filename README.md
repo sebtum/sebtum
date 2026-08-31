@@ -1,11 +1,11 @@
 ## Hi there 👋
 ## **About Me**
 AI/ML engineer with a hybrid background:
-- Agentic application development with Claude Code
+- Agentic AI and spec driven development with Claude Code
 - Google Cloud Platform professional ML engineer course
-- 6+ years in **server-CPU validation** at Intel Corporation (**DevOps**, automation, data pipelines, large-scale debug)  
+- 6+ years in **server-CPU software/hardware engineer** at Intel Corporation (**DevOps**, automation, data pipelines, large-scale debug)  
 - M.Sc. **Robotics, Cognition & Intelligence (TUM)** focused on medical imaging, computer vision, and vision–language models  
-- B.Sc. **Electrical Engineer (Universidad de Costa Rica)**
+- B.Sc. **Electrical Engineer (Universidad de Costa Rica)** focused on computer engineering
 
 Current interests: Agentic AI, NLP and Computer Vision.
 
