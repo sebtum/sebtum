@@ -85,6 +85,28 @@ ChexFound foundational model as a zero shot and as a fine tuned disease classifi
 </td>
 </tr>
 
+<tr>
+<td><strong>DAC Time-Series Pipeline</strong></td>
+<td>
+Time-series data platform for a Direct Air Capture pilot plant: ingests raw industrial sensor data, treats data quality as queryable rather than silently cleaned, and compares experiments in Grafana.
+</td>
+<td><strong>Python, InfluxDB 3, PostgreSQL, Grafana, Docker</strong></td>
+<td>
+<a href="https://github.com/sebtum/dac-timeseries-pipeline">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><strong>JobOpsV1</strong></td>
+<td>
+Agentic pipeline that turns a job posting into a fact-verified, ATS-ready CV and cover letter, with LLM-drafted prose checked by a deterministic rule engine and a fresh-context verifier.
+</td>
+<td><strong>Python, Claude, Jinja2, WeasyPrint</strong></td>
+<td>
+<a href="https://github.com/sebtum/JobOpsV1">Code</a>
+</td>
+</tr>
+
 </table>
 
 <!--
