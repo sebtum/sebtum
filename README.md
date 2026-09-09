@@ -12,6 +12,7 @@ Current interests: Agentic AI, NLP and Computer Vision.
 ---
 
 ## **Selected Projects**
+A mix of independent engineering builds and thesis research in medical vision-language models.
 
 <table>
 <tr>
@@ -39,49 +40,22 @@ Time tracking and project accountability app with visual statistics.
 </tr>
 
 <tr>
-<td><strong>Context-Aware Diff-VQA for Chest X-rays</strong></td>
+<td><strong>Thesis: Diff-VQA Disease Classification (MIMIC-CXR)</strong></td>
 <td>
-Explains longitudinal changes between CXRs using PLURAL as a baseline but with an additional zero-shot context input.
+Master's thesis work on longitudinal chest X-ray understanding and zero-shot disease classification:
+<ul>
+<li>Context-aware Diff-VQA explaining longitudinal changes between CXRs (PLURAL baseline + zero-shot context input)</li>
+<li>Xplainer adapted as a zero-shot disease classifier</li>
+<li>BioViL-T adapted as a zero-shot disease classifier</li>
+<li>ChexFound foundation model, zero-shot and fine-tuned</li>
+</ul>
 </td>
-<td><strong>PyTorch · Transformers · VLMs</strong></td>
+<td><strong>PyTorch · CLIP · BioViL · DINO · VLMs</strong></td>
 <td>
-<a href="https://github.com/sebtum/PLURAL/tree/xplainer">Code</a><br>
-<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
-</td>
-</tr>
-
-<tr>
-<td><strong>Xplainer for MIMIC DiffVQA</strong></td>
-<td>
-Adaptation of Xplainer as a zero shot disease classifier for the MIMIC DiffVQA dataset
-</td>
-<td><strong>PyTorch · CLIP · BioViL · VLMs</strong></td>
-<td>
-<a href="https://github.com/sebtum/Xplainer">Code</a><br>
-<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
-</td>
-</tr>
-
-<tr>
-<td><strong>BioViL-T for MIMIC DiffVQA</strong></td>
-<td>
-Adaptation of BioViL-T as a zero shot disease classifier for MIMIC DiffVQA dataset
-</td>
-<td><strong>PyTorch · CLIP · VLMs</strong></td>
-<td>
-<a href="https://github.com/sebtum/biovil-t">Code</a><br>
-<!--<a href="https://LINK-TO-THESIS-PDF">Thesis PDF</a>-->
-</td>
-</tr>
-
-<tr>
-<td><strong>ChexFound as a disease classifier</strong></td>
-<td>
-ChexFound foundational model as a zero shot and as a fine tuned disease classifier for the MIMIC DiffVQA dataset. 
-</td>
-<td><strong>PyTorch · DINO · Fine tuning</strong></td>
-<td>
-<a href="https://github.com/sebtum/CheXFound">Code</a>
+<a href="https://github.com/sebtum/PLURAL/tree/xplainer">Diff-VQA</a><br>
+<a href="https://github.com/sebtum/Xplainer">Xplainer</a><br>
+<a href="https://github.com/sebtum/biovil-t">BioViL-T</a><br>
+<a href="https://github.com/sebtum/CheXFound">ChexFound</a>
 </td>
 </tr>
 
