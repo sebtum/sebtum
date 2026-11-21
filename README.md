@@ -16,6 +16,23 @@ A mix of independent engineering builds and thesis research in medical vision-la
 
 <table>
 <tr>
+<td><strong>flow: Spec-Driven Development Plugin</strong></td>
+<td>
+Claude Code plugin for spec-driven development: plan, execute and verify each milestone in a fresh context, with deterministic guard rails against agent drift:
+<ul>
+<li>Gherkin acceptance scenarios and interface contracts checked by script</li>
+<li>Quality gates: CRAP score, mutation testing and black-box QA</li>
+<li>Hooks that keep each agent and sub-agent inside its own files</li>
+<li>Independent verifier (Claude or Codex) that never sees the author's notes</li>
+</ul>
+</td>
+<td><strong>Node.js, Claude Code (skills, hooks, sub-agents), Codex</strong></td>
+<td>
+<a href="https://github.com/sebtum/flow">Code</a>
+</td>
+</tr>
+
+<tr>
 <td><strong>MedAI Paper Lens</strong></td>
 <td>
 RAG based agent for comparing medical AI literature
