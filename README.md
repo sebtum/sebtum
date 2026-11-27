@@ -62,7 +62,7 @@ Full-stack, installable web app (PWA) for planning projects and tracking time: e
 </tr>
 
 <tr>
-<td><strong>Thesis: Diff-VQA Disease Classification (MIMIC-CXR)</strong></td>
+<td><strong>Thesis: Context-Aware Diff-VQA for Chest X-rays (MIMIC-CXR)</strong></td>
 <td>
 Master's thesis (TUM) on vision-language models that read chest X-rays over time:
 <ul>
