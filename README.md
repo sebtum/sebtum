@@ -74,7 +74,7 @@ Master's thesis (TUM) on vision-language models that read chest X-rays over time
 </td>
 <td><strong>PyTorch · CLIP · BioViL · DINO · VLMs</strong></td>
 <td>
-<a href="https://github.com/sebtum/context-aware-diffvqa">Context-Aware Diff-VQA</a><br>
+<a href="https://github.com/sebtum/context-aware-diffvqa">Thesis</a><br>
 <a href="https://github.com/sebtum/Xplainer">Xplainer</a><br>
 <a href="https://github.com/sebtum/biovil-t">BioViL-T</a><br>
 <a href="https://github.com/sebtum/CheXFound">CheXFound</a>
