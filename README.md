@@ -69,11 +69,12 @@ Master's thesis (TUM) on vision-language models that read chest X-rays over time
 <li>Context-aware Diff-VQA that explains what changed between a patient's earlier and current X-ray (PLURAL baseline)</li>
 <li>Xplainer and BioViL-T adapted as zero-shot disease classifiers</li>
 <li>CheXFound foundation model, evaluated zero-shot and fine-tuned</li>
+<li>Result: ideal disease hints raise CIDEr (a text-similarity score) from 1.83 to 5.66; automatic hints reach 1.76, slightly below the baseline, so hint precision is the bottleneck</li>
 </ul>
 </td>
 <td><strong>PyTorch · CLIP · BioViL · DINO · VLMs</strong></td>
 <td>
-<a href="https://github.com/sebtum/PLURAL/tree/xplainer">Diff-VQA</a><br>
+<a href="https://github.com/sebtum/context-aware-diffvqa">Diff-VQA</a><br>
 <a href="https://github.com/sebtum/Xplainer">Xplainer</a><br>
 <a href="https://github.com/sebtum/biovil-t">BioViL-T</a><br>
 <a href="https://github.com/sebtum/CheXFound">CheXFound</a>
